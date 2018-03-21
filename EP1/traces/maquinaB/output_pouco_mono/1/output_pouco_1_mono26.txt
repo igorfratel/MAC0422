@@ -1,0 +1,5 @@
+processo0 19.1 10.8 16.7
+processo3 23.8 16.1 20.0
+processo1 28.8 8.8 0.6
+processo2 29.6 16.7 8.3
+0

@@ -1,0 +1,20 @@
+Allan Amancio Rocha - 9761614
+Igor Fratel Santana - 9793565
+
+EP2 - MAC 0422:
+
+COMO COMPILAR:
+
+- Abra o terminal.
+- Vá até o diretório onde se encontra este arquivo.
+- Digite "make".
+- O binário ep2 deve ser gerado
+
+COMO EXECUTAR:
+
+- Para executar o binário ep2, basta digitar "./ep2 <args>" onde <args> são os argumentos listados na especificação do EP.
+
+OBSERVAÇÕES:
+
+- As instruções acima somente valem se o arquivo ".tar.gz" não for alterado internamente quanto à localização relativa dos arquivos.
+- Para ativar a opção debug, basta adicionar um "d" no final da lista de argumentos <args>.

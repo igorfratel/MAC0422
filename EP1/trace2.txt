@@ -1,0 +1,7 @@
+1 10 11 processo0
+1 3 5 processo1
+1 5 8 processo2
+1 4 8 processo3
+1 5 10 processo4
+1 13 19 processo5
+1 1 8 processo6

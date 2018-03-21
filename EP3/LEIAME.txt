@@ -1,0 +1,10 @@
+Allan Amancio Rocha - 9761614
+Igor Fratel Santana - 9793565
+
+Para executar o programa, basta digitar o comando "python ep3.py" no terminal.
+O restante da execução segue o padrão da especificação do ep.
+
+NOTA: No arquivo de trace, os acessos à páginas são representados
+no formato "p1 t1 p2 t2...pn tn" como especificado. No entanto, nossa decisão
+de projeto foi definir a primeira página como "1" e não "0", que seria outra
+possibilidade.

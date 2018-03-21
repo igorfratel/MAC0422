@@ -1,0 +1,18 @@
+EP1 - MAC 0422:
+
+COMO COMPILAR:
+
+- Abra o terminal.
+- Vá até o diretório onde se encontra este arquivo.
+- Digite "make".
+- Os binários "ep1sh" e "ep1" devem ser gerados.
+
+COMO EXECUTAR:
+
+- No terminal, no diretório onde se encontra este arquivo, digite "./ep1sh". Isso iniciará a shell ep1sh.
+- Para executar o binário ep1, basta digitar "./ep1 <args>" onde <args> são os argumentos listados na especificação do EP.
+- O binário ep1 também pode ser executado através da shell ep1sh com o comando "./ep1 <args>" da mesma maneira indicada acima.
+
+OBSERVAÇÕES:
+
+- As instruções acima somente valem se o arquivo ".tar.gz" não for alterado internamente quanto à localização relativa dos arquivos.

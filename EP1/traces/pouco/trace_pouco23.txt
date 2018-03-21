@@ -1,0 +1,4 @@
+13.1 14.9 29.0 processo3
+17.4 9.5 43.5 processo0
+18.7 15.8 42.7 processo2
+19.7 11.6 41.1 processo1

@@ -1,0 +1,2 @@
+A fazer: 
+	- Na main, antes da chamada de cada escalonador e leitor de processos, devemos chamar o sort_table com os parâmetros adequados

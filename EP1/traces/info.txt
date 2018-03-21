@@ -1,0 +1,17 @@
+Poucos processos: 
+4 processos
+t0: 0, 20
+dt: 0.1, 20
+
+Intermediário: 
+20 processos
+t0: 0, 15 
+dt: 0.1, 15
+
+Muitos processos: 
+50 processos
+t0: 0, 10
+dt: 0.1, 10
+
+python run_traces.py 1 trace_pouco output_pouco_1_multi
+^ gera arquivos multi cpu do escalonador sjf para poucos processos
